@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jogo da Velha</string>
+    <string name="main_title">Jogo da Velha</string>
+    <string name="continue_label">Continuar</string>
+    <string name="new_game_label">Novo jogo</string>
+    <string name="about_label">Sobre</string>
+    <string name="exit_label">Sair</string>
+    <string name="settings_label">Configurações</string>
+    <string name="settings_title">Configurações Jogo da Velha</string>
+    <string name="settings_shortcut">s</string>
+    <string name="music_title">Música</string>
+    <string name="music_summary">Tocar música</string>
+    <string name="new_game_title">Dificuldade</string>
+    <string name="easy_label">Fácil</string>
+    <string name="medium_label">Médio</string>
+    <string name="hard_label">Difícil</string>
+    <string name="game_title">Jogo</string>
+    <string name="no_moves_label">Sem movimentações</string>
+    <string name="author">Luthien Technology</string>
+    <string name="about_title">Sobre Jogo da Velha</string>
+    <string name="about_text">Como Jogar:\n\n- O tabuleiro é uma matriz de três linhas por três colunas.\n- O jogador 1 é identificado por um xis \"X\" e o jogador 2 por um círculo \"O\".\n- Os jogadores jogam alternadamente, uma marcação por vez, numa lacuna que esteja vazia.\n- O objetivo é conseguir três círculos ou três xis em uma linha, seja horizontal, vertical ou diagonal, e ao mesmo tempo impedir o adversário de ganhar na próxima jogada.\n\n\nDesenvolvido por Luthien Technology.\n2014 - Todos os direitos reservados.</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_jogo">Jogo da Velha</string>
+
+</resources>
